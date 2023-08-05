@@ -4,7 +4,8 @@
 - 🌱   I'm a fullstack web developer 
 
 - 📪 Contact : gelso02@live.com / gelso03@gmail.com
--🌐 site portifolio: http://webanuncios.net/
+
+- 🌐 site portifolio: http://webanuncios.net/
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gelso-schwertz/" target="_blank"> 
