@@ -5,7 +5,7 @@
 
 - 📪 Contact : gelso02@live.com / gelso03@gmail.com
 
-- 🌐 portifolio: [http://webanuncios.net/](https://gelsos.github.io/)
+- 🌐 portifolio: [https://gelsos.github.io/img/images.png](https://gelsos.github.io/)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gelso-schwertz/" target="_blank"> 
